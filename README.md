@@ -20,4 +20,4 @@ Use the palette icon to:
 - Modify fonts
 
 ## Support
-Contact: support@bitaxermt.com
+Contact: admin@bitaxermt.xyz
