@@ -10,12 +10,7 @@
 - Enterprise-grade performance
 
 ## Supported Coins
-- Bitcoin (BTC)
-- Ethereum (ETH)
-- Monero (XMR)
-- Litecoin (LTC)
-- Bitcoin Cash (BCH)
-- Dogecoin (DOGE)
+- All SHA-256 in can imagine
 
 ## Customization
 Use the palette icon to:
