@@ -1,6 +1,6 @@
 # BitaxeRMT Mining Pool Dashboard
 
-🚀 **Live Dashboard:** https://your-username.github.io/bitaxermt-dashboard
+🚀 **Live Dashboard:** https://Crypto13Vault/.github.io/bitaxermt-dashboard
 
 ## Features
 - Real-time mining statistics
